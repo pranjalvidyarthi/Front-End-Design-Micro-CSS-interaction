@@ -1,6 +1,5 @@
-# 🎨 100 Frontend Designs
+#  Frontend Designs
 
-Welcome to **100 Frontend Designs** — a collection of creative frontend UI components, layouts, animations, and micro CSS interactions built using pure HTML, CSS, and JavaScript.
 
 This project is all about improving frontend skills by creating modern and interactive designs one by one.
 
